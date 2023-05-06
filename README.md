@@ -1,6 +1,6 @@
 # Metaverse Portfolio App
 
-This is a [Next.js](https://nextjs.org/) project with [Tailwind CSS](https://tailwindcss.com/) and [Typescript](https://www.typescriptlang.org/).
+This is a [Next.js](https://nextjs.org/) project with [Tailwind CSS](https://tailwindcss.com/).
 
 ## Getting Started
 
@@ -20,5 +20,4 @@ To learn more about techonologies, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [Learn Typescript](https://www.typescriptlang.org/docs) - an interactive Typescript tutorial.
 - [Learn Tailwind CSS](https://tailwindcss.com/docs) - an interactive Tailwind CSS tutorial.
